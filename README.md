@@ -1,4 +1,3 @@
-# AI-Engineering
 # AI Engineering Portfolio
 
 ## Introduction to My AI Engineering Journey
